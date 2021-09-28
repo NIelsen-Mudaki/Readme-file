@@ -1,5 +1,4 @@
 ## Table of content
-[Days of the week](Monday Tuesday Wednesday Thursday Friday)
 # My Table
 |Days of the week|Months of the year| People's names| Cities
 ---|---|---|---|
