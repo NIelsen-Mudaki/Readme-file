@@ -7,5 +7,5 @@ Tuesday|February|Lindsey|Addis Ababa
 Wednesday|March|Donald|Riyadh
 Thursday|April|Daniel|Singapore
 Friday|May|Gabriel|Tokyo
-Saturday|June|Ray|Nakuru
+Saturday|June|Ray|Kampala
 Sunday|July|Serena|Dodoma
