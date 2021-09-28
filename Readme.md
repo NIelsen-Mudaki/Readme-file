@@ -1,3 +1,5 @@
+## Table of content
+[Days of the week](Monday Tuesday Wednesday Thursday Friday)
 # My Table
 |Days of the week|Months of the year| People's names| Cities
 ---|---|---|---|
@@ -7,3 +9,4 @@ Wednesday|March|Donald|Riyadh
 Thursday|April|Daniel|Singapore
 Friday|May|Gabriel|Tokyo
 Saturday|June|Ray|Nakuru
+Sunday|July|Serena|Dodoma
