@@ -14,4 +14,4 @@ Friday|May|Gabriel|Tokyo
 Saturday|June|Ray|Kampala
 Sunday|July|Serena|Dodoma
 
-![Butterfly] (./Desktop/Readme_folder/Butterfly.png)
+![Butterfly](./Butterfly.png)
